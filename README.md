@@ -1,4 +1,4 @@
-# LookAlike — Multimodal Face Recognition & Lookalike Finder
+# LookAlike
 
 LookAlike is a small, self-contained face recognition and "lookalike" search project built with PyTorch and Streamlit. It uses Siamese-style models (EfficientNet, ResNet50 and ViT) trained to produce 128-d normalized face embeddings and offers an interactive web UI to upload an image, take a snapshot, or run real-time webcam scanning.
 
@@ -126,7 +126,8 @@ If you find this project useful, consider sourcing the paper
 @inproceedings{
     title={LookAlike - Open-Set Face Retrieval Using Deep Metric Learning},
     author={Moujtahid, Abdelbasset},
-    url={https://github.com/},
+    url={https://github.com/moujtahid21/LookAlike},
+    booktitle={Project Report for EECS6327 (Fall 2025), Department of Electrical Engineering and Computer Science, York University},
     year={2025}   
 }
 ```
