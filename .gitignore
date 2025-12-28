@@ -1,0 +1,60 @@
+# Python bytecode / caches
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Project config / IDEs
+.idea/
+.vscode/
+
+# Data and model folders (do not commit large datasets or trained models)
+dataset/
+datasets/
+data/
+models/
+
+# Common ML model files
+*.h5
+*.hdf5
+*.pt
+*.pth
+*.ckpt
+*.ckpt.*
+*.pb
+*.onnx
+*.tflite
+
+# Large binary / array files
+*.npy
+*.npz
+
+# Archives and build artifacts
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.rar
+*.7z
+build/
+dist/
+*.egg-info/
+
+# Logs, caches, notebooks
+*.log
+.cache/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Environment / secrets
+.env
+.env.*
+
+# OS files
+.DS_Store
+Thumbs.db
