@@ -129,5 +129,5 @@ If you find this project useful, consider sourcing the [paper](./ICML_PMML_Repor
 or starring the GitHub repository.
 
 ## License
-Project Report for EECS6327 (Fall 2025), Department of Electrical Engineering and Computer Science, YorkUniversity. 
+Project Report for EECS6327 (Fall 2025), Department of Electrical Engineering and Computer Science, York University. 
 Copyright 2025 by the author(s).
