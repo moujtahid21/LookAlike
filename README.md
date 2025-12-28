@@ -113,11 +113,6 @@ If any of these files are missing the app will show a sidebar error and skip tha
 - face_db.pt load errors: delete `face_db.pt` to force re-indexing the dataset. The app will re-create it automatically.
 - MTCNN issues: `facenet_pytorch` depends on a working PyTorch + torchvision setup; verify CUDA/CPU compatibility and that the package is installed.
 
-## Developer notes / Next steps
-- Add a small training script & reproducible training recipe for the three backbones.
-- Provide prebuilt `face_db.pt` for quicker demos.
-- Add unit tests for detection, embedding comparison, and the DB indexing flow.
-- Consider packaging a docker image for reproducible environment setup.
 
 ## Author & Source
 Made with ❤️ by Abdelbasset Moujtahid
