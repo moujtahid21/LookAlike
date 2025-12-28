@@ -121,7 +121,7 @@ If any of these files are missing the app will show a sidebar error and skip tha
 
 ## Author & Source
 Made with ❤️ by Abdelbasset Moujtahid
-If you find this project useful, consider sourcing the paper
+If you find this project useful, consider sourcing the [paper](./ICML_PMML_Report_amoujt2s.pdf)
 ```
 @inproceedings{
     title={LookAlike - Open-Set Face Retrieval Using Deep Metric Learning},
