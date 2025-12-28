@@ -121,7 +121,7 @@ If you find this project useful, consider sourcing the [paper](./ICML_PMML_Repor
 @inproceedings{
     title={LookAlike - Open-Set Face Retrieval Using Deep Metric Learning},
     author={Moujtahid, Abdelbasset},
-    url={https://github.com/moujtahid21/LookAlike},
+    url={https://github.com/moujtahid21/LookAlike/blob/master/ICML_PMML_Report_amoujt2s.pdf},
     booktitle={Project Report for EECS6327 (Fall 2025), Department of Electrical Engineering and Computer Science, York University},
     year={2025}   
 }
